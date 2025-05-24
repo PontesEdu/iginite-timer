@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import "styled-components";
 import { defaultTheme } from "../styles/themes/default";
 
 // styled.d.ts arquivo de que so tem tipagem 
